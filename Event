@@ -3,8 +3,7 @@
 }
 
 public class PlayerMoveEventHandler implements EventHandler<PlayerMove> {
-    @Override
-    public void handle (final PlayerMove event) {
+     public void handle (final PlayerMove event) {
         //... handle
     }
 }
